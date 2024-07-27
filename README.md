@@ -16,7 +16,7 @@ The game allows users to play Rock Paper Scissors against the computer, with a s
 
 
 
-# Master_Mind_Game
+# Master_Mind_Game (MMGmain.py)
 
 # 💡 Project Highlights:
 
